@@ -9,9 +9,9 @@
 * Using Boostrap and responsive design.
 ## React:
 * The library for web and native user interfaces.
-* Start command - npm run dev.
-* Build command - npm run build.
-* Port Number   - 3000.
+* Start command - **npm run dev**
+* Build command - **npm run build**
+* Port Number   - **3000**
 
 > [!IMPORTANT]
 > Using Props method - Passing the Dynamic data to one component to another component.
