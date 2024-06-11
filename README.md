@@ -1,8 +1,8 @@
 # FRONTEND:- Price Card Task
 
-# Vercel Deployment URL : https://react-price-card-ashy.vercel.app/
+## Vercel Deployment URL : https://react-price-card-ashy.vercel.app/
 
-# Base URL : http://localhost:3000/
+## Base URL : http://localhost:3000/
 
 ## Requirements:
 * Reproduce this user interface using a React.js application with JSX. Write the code in a dynamic manner.
